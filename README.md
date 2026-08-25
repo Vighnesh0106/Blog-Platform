@@ -2,6 +2,7 @@
 
 Chronicle is a full-stack publication and blogging web application crafted with React 19, TypeScript, Express, Tailwind CSS, and persistent database storage. It delivers an editorial reading experience with secure user authentication, markdown story composition, and threaded discussions.
 
+APP URL = https://blog-platform-production-9c0c.up.railway.app/
 ---
 
 ## 🌟 Key Features
