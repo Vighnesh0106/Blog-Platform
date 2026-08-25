@@ -1,6 +1,6 @@
 import { User, Post, Comment, AuthResponse, ApiResponse } from '../types.ts';
 
-const TOKEN_KEY = 'chronicle_auth_token';
+const TOKEN_KEY = 'https://blog-platform-production-9c0c.up.railway.app/';
 
 export const tokenStorage = {
   get: (): string | null => {
