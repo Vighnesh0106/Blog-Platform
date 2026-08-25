@@ -1,0 +1,6 @@
+{
+  "name": "Chronicle Blog Platform",
+  "description": "A modern blogging platform featuring user authentication, interactive posts, markdown editing, and threaded comments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
